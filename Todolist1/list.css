@@ -1,0 +1,38 @@
+
+
+.bg-container{
+    background-image:url("https://tse3.mm.bing.net/th?id=OIP.FEqv7YYMNjXtrVYqo7HHzAHaE7&pid=Api&P=0&h=180");
+    height:100vh;
+    background-size: cover;
+
+
+
+
+}
+image{
+    height:100px;
+    weight:100px;
+}
+
+
+.card {
+    text-align: center;
+    color: white;
+    font-family: roboto;
+}
+
+.button {
+    background-color: orange;
+    color: white;
+    height: 35px;
+    width: 60px;
+    font-size: 15px;
+}
+
+.main-heading {
+    text-align: left;
+}
+
+.paragraph {
+    text-decoration: underline;
+}

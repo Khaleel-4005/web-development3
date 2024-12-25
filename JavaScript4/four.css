@@ -1,0 +1,51 @@
+/* .heading{
+    color:"blue";
+    background-color: aqua;
+}
+
+body{
+    background-color:beige;
+}
+
+button{
+    background-color:blue;
+    color:brown
+} */
+
+
+
+
+
+
+/* .box{
+    height : 100px;
+    width: 100px;
+    border:1px soild black;
+    margin: 5px;
+    text-align: center;
+    background-color:aquamarine ;
+} */
+
+
+
+
+
+
+#box {
+    height: 250px;
+    width: 100px;
+    background-color:aqua;
+    color: white;
+    border : 1px solid black;
+
+}
+
+
+.content{
+    color: red;
+}
+
+.newClass {
+    background-color: green;
+}
+
